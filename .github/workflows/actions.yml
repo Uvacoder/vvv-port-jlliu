@@ -1,3 +1,4 @@
+on: push
 steps:
   - name: Set env variable action
     env: # Or as an environment variable
