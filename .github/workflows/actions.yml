@@ -1,0 +1,4 @@
+steps:
+  - name: Set env variable action
+    env: # Or as an environment variable
+      super_secret: ${{ secrets.GRIDSOME_AIRTABLE_API }}
