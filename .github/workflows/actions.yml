@@ -1,5 +1,8 @@
 on: push
-steps:
-  - name: Set env variable action
-    env: # Or as an environment variable
-      super_secret: ${{ secrets.GRIDSOME_AIRTABLE_API }}
+jobs:
+    build:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Set env variable action
+          env: # Or as an environment variable
+            super_secret: ${{ secrets.GRIDSOME_AIRTABLE_API }}
