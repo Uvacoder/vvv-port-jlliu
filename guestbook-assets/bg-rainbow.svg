@@ -1,0 +1,51 @@
+<svg width="394" height="365" viewBox="0 0 394 365" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_329_4355)">
+<circle cx="71" cy="38" r="14" fill="white" stroke="#2C2336" stroke-width="6"/>
+<rect x="64" y="3" width="14" height="38" rx="7" fill="white" stroke="#2C2336" stroke-width="6"/>
+<circle cx="137.25" cy="38" r="14" fill="white" stroke="#2C2336" stroke-width="6"/>
+<rect x="130.25" y="3" width="14" height="38" rx="7" fill="white" stroke="#2C2336" stroke-width="6"/>
+<circle cx="203.5" cy="38" r="14" fill="white" stroke="#2C2336" stroke-width="6"/>
+<rect x="196.5" y="3" width="14" height="38" rx="7" fill="white" stroke="#2C2336" stroke-width="6"/>
+<circle cx="269.75" cy="38" r="14" fill="white" stroke="#2C2336" stroke-width="6"/>
+<rect x="262.75" y="3" width="14" height="38" rx="7" fill="white" stroke="#2C2336" stroke-width="6"/>
+<circle cx="336" cy="38" r="14" fill="white" stroke="#2C2336" stroke-width="6"/>
+<rect x="329" y="3" width="14" height="38" rx="7" fill="white" stroke="#2C2336" stroke-width="6"/>
+<mask id="mask0_329_4355" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="15" width="394" height="350">
+<path d="M35.251 18H374.866C383.553 18 390.468 25.2791 390.022 33.9553L373.905 347.602C373.491 355.671 366.828 362 358.749 362H19.1344C10.4468 362 3.53214 354.721 3.97796 346.045L20.0945 32.3976C20.5091 24.3292 27.172 18 35.251 18Z" fill="#D9D9D9" stroke="#2C2336" stroke-width="6"/>
+</mask>
+<g mask="url(#mask0_329_4355)">
+<rect x="-69" y="-22" width="531" height="468" fill="url(#paint0_linear_329_4355)"/>
+<mask id="mask1_329_4355" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-26" y="-51" width="1352" height="1352">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M650 1301C1023.34 1301 1326 998.344 1326 625C1326 251.656 1023.34 -51 650 -51C276.656 -51 -26 251.656 -26 625C-26 998.344 276.656 1301 650 1301ZM651.04 1169.96C952.587 1169.96 1197.04 925.508 1197.04 623.96C1197.04 322.413 952.587 77.96 651.04 77.96C349.493 77.96 105.04 322.413 105.04 623.96C105.04 925.508 349.493 1169.96 651.04 1169.96Z" fill="#F555AC"/>
+</mask>
+<g mask="url(#mask1_329_4355)">
+<circle cx="650" cy="625" r="676" fill="#EF6B8A"/>
+<circle cx="651.04" cy="623.96" r="650" fill="#FF9E58"/>
+<circle cx="650" cy="625" r="624" fill="#FFDE87"/>
+<circle cx="651.04" cy="623.96" r="598" fill="#B8DE67"/>
+<circle cx="650" cy="625" r="572" fill="#786CFF"/>
+</g>
+<path d="M42.5571 333H335.48C339.303 333 342.455 330.005 342.651 326.187L355.692 71.5472C355.902 67.443 352.631 64 348.521 64H55.5979C51.7752 64 48.6228 66.9951 48.4273 70.8128L35.3865 325.453C35.1763 329.557 38.4475 333 42.5571 333Z" fill="#EBF9FF"/>
+</g>
+<path d="M35.251 18H374.866C383.553 18 390.468 25.2791 390.022 33.9553L373.905 347.602C373.491 355.671 366.828 362 358.749 362H19.1344C10.4468 362 3.53214 354.721 3.97796 346.045L20.0945 32.3976C20.5091 24.3292 27.172 18 35.251 18Z" stroke="#2C2336" stroke-width="6"/>
+<circle cx="71" cy="38" r="12.5" fill="white" stroke="#2C2336" stroke-width="3"/>
+<rect x="65.5" y="4.5" width="11" height="35" rx="5.5" fill="#EEEEF2" stroke="#2C2336" stroke-width="3"/>
+<circle cx="137.25" cy="38" r="12.5" fill="white" stroke="#2C2336" stroke-width="3"/>
+<rect x="131.75" y="4.5" width="11" height="35" rx="5.5" fill="#EEEEF2" stroke="#2C2336" stroke-width="3"/>
+<circle cx="203.5" cy="38" r="12.5" fill="white" stroke="#2C2336" stroke-width="3"/>
+<rect x="198" y="4.5" width="11" height="35" rx="5.5" fill="#EEEEF2" stroke="#2C2336" stroke-width="3"/>
+<circle cx="269.75" cy="38" r="12.5" fill="white" stroke="#2C2336" stroke-width="3"/>
+<rect x="264.25" y="4.5" width="11" height="35" rx="5.5" fill="#EEEEF2" stroke="#2C2336" stroke-width="3"/>
+<circle cx="336" cy="38" r="12.5" fill="white" stroke="#2C2336" stroke-width="3"/>
+<rect x="330.5" y="4.5" width="11" height="35" rx="5.5" fill="#EEEEF2" stroke="#2C2336" stroke-width="3"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_329_4355" x1="196.5" y1="-22" x2="196.5" y2="446" gradientUnits="userSpaceOnUse">
+<stop stop-color="#AEA7FF"/>
+<stop offset="1" stop-color="#DFF6FD"/>
+</linearGradient>
+<clipPath id="clip0_329_4355">
+<rect width="394" height="365" fill="white"/>
+</clipPath>
+</defs>
+</svg>
